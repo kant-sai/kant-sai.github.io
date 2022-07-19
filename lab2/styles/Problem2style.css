@@ -1,0 +1,33 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: green;
+    text-align: right;
+}
+
+h3, h4 {
+    color: blue;
+    text-align: center;
+}
+
+.firstParagraph {
+    color:  darkturquoise;
+    font-style: italic;
+    border: 2px solid royalblue;
+}
+
+.secondParagraph {
+    color: darkolivegreen;
+    font-weight: bold;
+    text-align: center;
+    border: 3px dotted coral;
+}
+
+#thirdParagraph {
+    color: darkmagenta;
+    font-size: large;
+    text-align: right;
+    border: 4px dashed yellow;
+}

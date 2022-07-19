@@ -1,0 +1,26 @@
+html {
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: right;
+}
+
+#newCases {
+    background-color: yellow;
+}
+
+.mostcommonstyle {
+    list-style-type: circle;
+}
+
+.lesscommonstyle {
+    list-style-type: square;
+}
